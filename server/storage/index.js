@@ -3,6 +3,12 @@ const path = require('path');
 const fs = require('fs');
 const os = require('os');
 
+/**
+ * Small storage wrapper.
+ *
+ * @constructor
+ * @private
+ */
 class Storage {
   constructor() {
     this.tmpdir = os.tmpdir();
