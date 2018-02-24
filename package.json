@@ -1,0 +1,24 @@
+{
+  "name": "defcon.1",
+  "version": "0.0.0",
+  "description": "Home Automation system",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require babel-register ./test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3rd-Eden/defcon.1.gif.git"
+  },
+  "keywords": [
+    "defcon",
+    "home",
+    "automation"
+  ],
+  "author": "Arnout Kazemier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3rd-Eden/defcon.1.gif/issues"
+  },
+  "homepage": "https://github.com/3rd-Eden/defcon.1.gif#readme"
+}
